@@ -6,7 +6,7 @@
 
 from flask import Flask
 from flask import request,render_template
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 
 
 # In[2]:
